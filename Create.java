@@ -10,6 +10,7 @@ public static void main(String[]args){
   k.add(4);
   k.add(5);
   k.add(6);
+  k.add(9);
   k.add(7);
 
   Iterator l=k.iterator();
